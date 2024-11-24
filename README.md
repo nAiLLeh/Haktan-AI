@@ -1,8 +1,5 @@
 # Haktan-AI
 Haktan AI
-
-Open index.html
-
 If you want to run it without downloading:
 
 cmd.exe
